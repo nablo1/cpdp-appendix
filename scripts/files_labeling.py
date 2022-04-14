@@ -14,18 +14,21 @@ gr = Git(project)
 
 ### Retreiving all java files in the project in storing them in a list
 
-files_w_duplicates = []
+all_files = []
 for subdir, dirs, files in os.walk(project):
 	for file in files:
 		if file.endswith(".java"):
-			files_w_duplicates.append(file)
+			all_files.append(file)
 
-all_files = []
-for f in files_w_duplicates:
-	if f not in all_files:
-		all_files.append(f)
+duplicate_files = []
+for f in all_files:
+	if all_files.count(f) > 1:
+		duplicate_files.append(f)
 
-print(len(files_w_duplicates), len(all_files))
+for ff in all_files:
+	if ff in duplicate_files:
+		all_files.remove(ff)
+
 db_conn = mysql.connector.connect(host = host, user = user, passwd = password)
 mycursor = db_conn.cursor()
 
@@ -91,7 +94,7 @@ print("All bug-prone files in project " + project + " retrieved and stored in th
 ### Reading bug-prone files from DB without duplaictes
 
 prone_files = []
-sql_retrieve_bugprone_files = "SELECT * FROM " + project + ".bugprone_files WHERE filename LIKE '%.java%' GROUP BY filename"
+sql_retrieve_bugprone_files = "SELECT * FROM " + project + ".szz WHERE filename LIKE '%.java%' GROUP BY filename"
 mycursor.execute(sql_retrieve_bugprone_files)
 res = mycursor.fetchall()
 for row in res:
@@ -105,11 +108,10 @@ sql_store_files = "INSERT INTO " + project + ".all_files (file, bug_prone) VALUE
 
 existing_prone_files = []
 for file in all_files:
-	for p in prone_files:
-		if p == file:
-			existing_prone_files.append(file)
-		else:
-			continue
+	if file in prone_files:
+		existing_prone_files.append(file)
+	else:
+		continue
 
 for file in all_files:
 	if file in existing_prone_files:
@@ -121,4 +123,4 @@ for file in all_files:
 		mycursor.execute(sql_store_files, free_data)
 		db_conn.commit()
 
-	
+print("All the files with their labels are added to DB successfully")
