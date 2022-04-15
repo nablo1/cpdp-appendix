@@ -108,11 +108,11 @@ sql_store_files = "INSERT INTO " + project + ".all_files (file, bug_prone) VALUE
 
 existing_prone_files = []
 for file in all_files:
-	if file in prone_files:
-		existing_prone_files.append(file)
-	else:
-		continue
-
+    for p in prone_files:
+        if p == file:
+            existing_prone_files.append(file)
+        else:
+            continue
 for file in all_files:
 	if file in existing_prone_files:
 		prone_data = (file, "true")
