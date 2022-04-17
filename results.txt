@@ -1,0 +1,617 @@
+Classification report for RandomForestClassifier() traind on antennapod.csv and tested on applozic.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.80      0.47      0.59       466
+         1.0       0.64      0.89      0.74       490
+
+    accuracy                           0.69       956
+   macro avg       0.72      0.68      0.67       956
+weighted avg       0.72      0.69      0.67       956
+
+Classification report for RandomForestClassifier() traind on antennapod.csv and tested on cyclestreets.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.27      0.80      0.40        30
+         1.0       0.94      0.61      0.74       167
+
+    accuracy                           0.64       197
+   macro avg       0.61      0.71      0.57       197
+weighted avg       0.84      0.64      0.69       197
+
+Classification report for RandomForestClassifier() traind on antennapod.csv and tested on jodd.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.82      0.63      0.71       372
+         1.0       0.17      0.37      0.24        79
+
+    accuracy                           0.58       451
+   macro avg       0.50      0.50      0.47       451
+weighted avg       0.71      0.58      0.63       451
+
+Classification report for RandomForestClassifier() traind on antennapod.csv and tested on osmdroid.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.54      0.56      0.55       313
+         1.0       0.78      0.76      0.77       631
+
+    accuracy                           0.69       944
+   macro avg       0.66      0.66      0.66       944
+weighted avg       0.70      0.69      0.70       944
+
+Classification report for RandomForestClassifier() traind on antennapod.csv and tested on stroom.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.54      0.63      0.58      2038
+         1.0       0.59      0.51      0.55      2201
+
+    accuracy                           0.56      4239
+   macro avg       0.57      0.57      0.56      4239
+weighted avg       0.57      0.56      0.56      4239
+
+Classification report for RandomForestClassifier() traind on antennapod.csv and tested on talon.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.46      0.34      0.39       323
+         1.0       0.81      0.87      0.84      1017
+
+    accuracy                           0.74      1340
+   macro avg       0.63      0.61      0.62      1340
+weighted avg       0.72      0.74      0.73      1340
+
+Classification report for RandomForestClassifier() traind on antennapod.csv and tested on tessera.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.78      0.77      0.78       331
+         1.0       0.33      0.35      0.34       108
+
+    accuracy                           0.67       439
+   macro avg       0.56      0.56      0.56       439
+weighted avg       0.67      0.67      0.67       439
+
+Classification report for RandomForestClassifier() traind on applozic.csv and tested on antennapod.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.53      0.79      0.63       262
+         1.0       0.67      0.37      0.48       298
+
+    accuracy                           0.57       560
+   macro avg       0.60      0.58      0.55       560
+weighted avg       0.60      0.57      0.55       560
+
+
+Classification report for RandomForestClassifier() traind on applozic.csv and tested on cyclestreets.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.16      0.80      0.27        30
+         1.0       0.87      0.24      0.38       167
+
+    accuracy                           0.32       197
+   macro avg       0.51      0.52      0.32       197
+weighted avg       0.76      0.32      0.36       197
+
+Classification report for RandomForestClassifier() traind on applozic.csv and tested on jodd.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.82      0.85      0.83       372
+         1.0       0.14      0.11      0.12        79
+
+    accuracy                           0.72       451
+   macro avg       0.48      0.48      0.48       451
+weighted avg       0.70      0.72      0.71       451
+
+Classification report for RandomForestClassifier() traind on applozic.csv and tested on osmdroid.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.41      0.77      0.54       313
+         1.0       0.80      0.45      0.57       631
+
+    accuracy                           0.56       944
+   macro avg       0.60      0.61      0.55       944
+weighted avg       0.67      0.56      0.56       944
+
+Classification report for RandomForestClassifier() traind on applozic.csv and tested on stroom.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.50      0.84      0.62      2038
+         1.0       0.58      0.21      0.31      2201
+
+    accuracy                           0.51      4239
+   macro avg       0.54      0.52      0.47      4239
+weighted avg       0.54      0.51      0.46      4239
+
+Classification report for RandomForestClassifier() traind on applozic.csv and tested on talon.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.39      0.59      0.47       323
+         1.0       0.84      0.71      0.77      1017
+
+    accuracy                           0.68      1340
+   macro avg       0.62      0.65      0.62      1340
+weighted avg       0.73      0.68      0.70      1340
+
+Classification report for RandomForestClassifier() traind on applozic.csv and tested on tessera.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.73      0.73      0.73       331
+         1.0       0.19      0.19      0.19       108
+
+    accuracy                           0.60       439
+   macro avg       0.46      0.46      0.46       439
+weighted avg       0.60      0.60      0.60       439
+
+Classification report for RandomForestClassifier() traind on cyclestreets.csv and tested on antennapod.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.77      0.09      0.16       262
+         1.0       0.55      0.98      0.70       298
+
+    accuracy                           0.56       560
+   macro avg       0.66      0.53      0.43       560
+weighted avg       0.65      0.56      0.45       560
+
+Classification report for RandomForestClassifier() traind on cyclestreets.csv and tested on applozic.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.68      0.03      0.05       466
+         1.0       0.52      0.99      0.68       490
+
+    accuracy                           0.52       956
+   macro avg       0.60      0.51      0.37       956
+weighted avg       0.60      0.52      0.37       956
+
+Classification report for RandomForestClassifier() traind on cyclestreets.csv and tested on jodd.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.87      0.16      0.27       372
+         1.0       0.18      0.89      0.30        79
+
+    accuracy                           0.29       451
+   macro avg       0.53      0.52      0.29       451
+weighted avg       0.75      0.29      0.27       451
+
+Classification report for RandomForestClassifier() traind on cyclestreets.csv and tested on osmdroid.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.65      0.12      0.21       313
+         1.0       0.69      0.97      0.81       631
+
+    accuracy                           0.69       944
+   macro avg       0.67      0.55      0.51       944
+weighted avg       0.68      0.69      0.61       944
+
+Classification report for RandomForestClassifier() traind on cyclestreets.csv and tested on stroom.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.55      0.10      0.17      2038
+         1.0       0.53      0.93      0.67      2201
+
+    accuracy                           0.53      4239
+   macro avg       0.54      0.51      0.42      4239
+weighted avg       0.54      0.53      0.43      4239
+
+Classification report for RandomForestClassifier() traind on cyclestreets.csv and tested on talon.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.60      0.05      0.09       323
+         1.0       0.77      0.99      0.86      1017
+
+    accuracy                           0.76      1340
+   macro avg       0.68      0.52      0.47      1340
+weighted avg       0.73      0.76      0.68      1340
+
+Classification report for RandomForestClassifier() traind on cyclestreets.csv and tested on tessera.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.92      0.11      0.19       331
+         1.0       0.26      0.97      0.41       108
+
+    accuracy                           0.32       439
+   macro avg       0.59      0.54      0.30       439
+weighted avg       0.76      0.32      0.24       439
+
+Classification report for RandomForestClassifier() traind on jodd.csv and tested on antennapod.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.50      0.86      0.63       262
+         1.0       0.67      0.25      0.36       298
+
+    accuracy                           0.54       560
+   macro avg       0.59      0.56      0.50       560
+weighted avg       0.59      0.54      0.49       560
+
+Classification report for RandomForestClassifier() traind on jodd.csv and tested on applozic.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.58      0.80      0.67       466
+         1.0       0.70      0.45      0.55       490
+
+    accuracy                           0.62       956
+   macro avg       0.64      0.63      0.61       956
+weighted avg       0.64      0.62      0.61       956
+
+Classification report for RandomForestClassifier() traind on jodd.csv and tested on cyclestreets.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.17      0.97      0.30        30
+         1.0       0.97      0.18      0.30       167
+
+    accuracy                           0.30       197
+   macro avg       0.57      0.57      0.30       197
+weighted avg       0.85      0.30      0.30       197
+
+Classification report for RandomForestClassifier() traind on jodd.csv and tested on osmdroid.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.37      0.84      0.51       313
+         1.0       0.79      0.29      0.42       631
+
+    accuracy                           0.47       944
+   macro avg       0.58      0.56      0.47       944
+weighted avg       0.65      0.47      0.45       944
+
+Classification report for RandomForestClassifier() traind on jodd.csv and tested on stroom.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.49      0.92      0.64      2038
+         1.0       0.57      0.10      0.17      2201
+
+    accuracy                           0.49      4239
+   macro avg       0.53      0.51      0.40      4239
+weighted avg       0.53      0.49      0.40      4239
+
+Classification report for RandomForestClassifier() traind on jodd.csv and tested on talon.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.26      0.77      0.39       323
+         1.0       0.81      0.31      0.45      1017
+
+    accuracy                           0.42      1340
+   macro avg       0.54      0.54      0.42      1340
+weighted avg       0.68      0.42      0.44      1340
+
+Classification report for RandomForestClassifier() traind on jodd.csv and tested on tessera.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.76      0.94      0.84       331
+         1.0       0.37      0.10      0.16       108
+
+    accuracy                           0.74       439
+   macro avg       0.56      0.52      0.50       439
+weighted avg       0.67      0.74      0.68       439
+
+Classification report for RandomForestClassifier() traind on osmdroid.csv and tested on antennapod.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.60      0.40      0.48       262
+         1.0       0.59      0.76      0.67       298
+
+    accuracy                           0.59       560
+   macro avg       0.59      0.58      0.57       560
+weighted avg       0.59      0.59      0.58       560
+
+Classification report for RandomForestClassifier() traind on osmdroid.csv and tested on applozic.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.80      0.38      0.51       466
+         1.0       0.61      0.91      0.73       490
+
+    accuracy                           0.65       956
+   macro avg       0.70      0.64      0.62       956
+weighted avg       0.70      0.65      0.62       956
+
+Classification report for RandomForestClassifier() traind on osmdroid.csv and tested on cyclestreets.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.25      0.63      0.36        30
+         1.0       0.91      0.66      0.76       167
+
+    accuracy                           0.65       197
+   macro avg       0.58      0.65      0.56       197
+weighted avg       0.81      0.65      0.70       197
+
+Classification report for RandomForestClassifier() traind on osmdroid.csv and tested on jodd.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.86      0.55      0.67       372
+         1.0       0.21      0.58      0.31        79
+
+    accuracy                           0.55       451
+   macro avg       0.54      0.57      0.49       451
+weighted avg       0.75      0.55      0.61       451
+
+Classification report for RandomForestClassifier() traind on osmdroid.csv and tested on stroom.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.51      0.44      0.48      2038
+         1.0       0.54      0.61      0.57      2201
+
+    accuracy                           0.53      4239
+   macro avg       0.53      0.53      0.52      4239
+weighted avg       0.53      0.53      0.53      4239
+
+Classification report for RandomForestClassifier() traind on osmdroid.csv and tested on talon.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.38      0.19      0.25       323
+         1.0       0.78      0.91      0.84      1017
+
+    accuracy                           0.73      1340
+   macro avg       0.58      0.55      0.54      1340
+weighted avg       0.68      0.73      0.70      1340
+
+Classification report for RandomForestClassifier() traind on osmdroid.csv and tested on tessera.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.80      0.51      0.62       331
+         1.0       0.29      0.62      0.40       108
+
+    accuracy                           0.54       439
+   macro avg       0.55      0.56      0.51       439
+weighted avg       0.68      0.54      0.57       439
+
+Classification report for RandomForestClassifier() traind on stroom.csv and tested on antennapod.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.59      0.43      0.50       262
+         1.0       0.60      0.73      0.66       298
+
+    accuracy                           0.59       560
+   macro avg       0.59      0.58      0.58       560
+weighted avg       0.59      0.59      0.58       560
+
+Classification report for RandomForestClassifier() traind on stroom.csv and tested on applozic.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.65      0.33      0.44       466
+         1.0       0.57      0.83      0.67       490
+
+    accuracy                           0.59       956
+   macro avg       0.61      0.58      0.56       956
+weighted avg       0.61      0.59      0.56       956
+
+Classification report for RandomForestClassifier() traind on stroom.csv and tested on cyclestreets.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.22      0.57      0.31        30
+         1.0       0.89      0.63      0.74       167
+
+    accuracy                           0.62       197
+   macro avg       0.55      0.60      0.53       197
+weighted avg       0.79      0.62      0.68       197
+
+Classification report for RandomForestClassifier() traind on stroom.csv and tested on jodd.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.88      0.55      0.68       372
+         1.0       0.24      0.65      0.34        79
+
+    accuracy                           0.57       451
+   macro avg       0.56      0.60      0.51       451
+weighted avg       0.77      0.57      0.62       451
+
+Classification report for RandomForestClassifier() traind on stroom.csv and tested on osmdroid.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.46      0.33      0.39       313
+         1.0       0.71      0.81      0.75       631
+
+    accuracy                           0.65       944
+   macro avg       0.58      0.57      0.57       944
+weighted avg       0.63      0.65      0.63       944
+
+Classification report for RandomForestClassifier() traind on stroom.csv and tested on talon.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.47      0.32      0.38       323
+         1.0       0.80      0.88      0.84      1017
+
+    accuracy                           0.75      1340
+   macro avg       0.64      0.60      0.61      1340
+weighted avg       0.72      0.75      0.73      1340
+
+Classification report for RandomForestClassifier() traind on stroom.csv and tested on tessera.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.85      0.56      0.68       331
+         1.0       0.34      0.69      0.45       108
+
+    accuracy                           0.59       439
+   macro avg       0.59      0.62      0.56       439
+weighted avg       0.72      0.59      0.62       439
+
+Classification report for RandomForestClassifier() traind on talon.csv and tested on antennapod.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.54      0.57      0.55       262
+         1.0       0.60      0.57      0.58       298
+
+    accuracy                           0.57       560
+   macro avg       0.57      0.57      0.57       560
+weighted avg       0.57      0.57      0.57       560
+
+Classification report for RandomForestClassifier() traind on talon.csv and tested on applozic.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.76      0.51      0.61       466
+         1.0       0.64      0.85      0.73       490
+
+    accuracy                           0.68       956
+   macro avg       0.70      0.68      0.67       956
+weighted avg       0.70      0.68      0.67       956
+
+Classification report for RandomForestClassifier() traind on talon.csv and tested on cyclestreets.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.15      0.57      0.24        30
+         1.0       0.84      0.42      0.56       167
+
+    accuracy                           0.44       197
+   macro avg       0.50      0.49      0.40       197
+weighted avg       0.74      0.44      0.51       197
+
+Classification report for RandomForestClassifier() traind on talon.csv and tested on jodd.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.83      0.66      0.74       372
+         1.0       0.19      0.38      0.26        79
+
+    accuracy                           0.61       451
+   macro avg       0.51      0.52      0.50       451
+weighted avg       0.72      0.61      0.65       451
+
+Classification report for RandomForestClassifier() traind on talon.csv and tested on osmdroid.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.47      0.58      0.52       313
+         1.0       0.76      0.68      0.72       631
+
+    accuracy                           0.65       944
+   macro avg       0.62      0.63      0.62       944
+weighted avg       0.67      0.65      0.65       944
+
+Classification report for RandomForestClassifier() traind on talon.csv and tested on stroom.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.49      0.60      0.54      2038
+         1.0       0.53      0.43      0.47      2201
+
+    accuracy                           0.51      4239
+   macro avg       0.51      0.51      0.51      4239
+weighted avg       0.51      0.51      0.50      4239
+
+Classification report for RandomForestClassifier() traind on talon.csv and tested on tessera.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.78      0.75      0.76       331
+         1.0       0.31      0.33      0.32       108
+
+    accuracy                           0.65       439
+   macro avg       0.54      0.54      0.54       439
+weighted avg       0.66      0.65      0.65       439
+
+Classification report for RandomForestClassifier() traind on tessera.csv and tested on antennapod.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.49      0.75      0.60       262
+         1.0       0.60      0.33      0.42       298
+
+    accuracy                           0.53       560
+   macro avg       0.55      0.54      0.51       560
+weighted avg       0.55      0.53      0.50       560
+
+Classification report for RandomForestClassifier() traind on tessera.csv and tested on applozic.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.53      0.63      0.58       466
+         1.0       0.58      0.48      0.52       490
+
+    accuracy                           0.55       956
+   macro avg       0.56      0.55      0.55       956
+weighted avg       0.56      0.55      0.55       956
+
+Classification report for RandomForestClassifier() traind on tessera.csv and tested on cyclestreets.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.20      0.87      0.32        30
+         1.0       0.94      0.37      0.53       167
+
+    accuracy                           0.44       197
+   macro avg       0.57      0.62      0.42       197
+weighted avg       0.83      0.44      0.49       197
+
+Classification report for RandomForestClassifier() traind on tessera.csv and tested on jodd.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.85      0.77      0.81       372
+         1.0       0.24      0.34      0.28        79
+
+    accuracy                           0.70       451
+   macro avg       0.55      0.56      0.55       451
+weighted avg       0.74      0.70      0.72       451
+
+Classification report for RandomForestClassifier() traind on tessera.csv and tested on osmdroid.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.41      0.77      0.54       313
+         1.0       0.80      0.45      0.58       631
+
+    accuracy                           0.56       944
+   macro avg       0.60      0.61      0.56       944
+weighted avg       0.67      0.56      0.56       944
+
+Classification report for RandomForestClassifier() traind on tessera.csv and tested on stroom.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.49      0.77      0.60      2038
+         1.0       0.54      0.25      0.34      2201
+
+    accuracy                           0.50      4239
+   macro avg       0.51      0.51      0.47      4239
+weighted avg       0.51      0.50      0.46      4239
+
+Classification report for RandomForestClassifier() traind on tessera.csv and tested on talon.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.29      0.62      0.39       323
+         1.0       0.81      0.50      0.62      1017
+
+    accuracy                           0.53      1340
+   macro avg       0.55      0.56      0.51      1340
+weighted avg       0.68      0.53      0.57      1340
+
