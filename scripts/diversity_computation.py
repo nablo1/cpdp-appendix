@@ -104,7 +104,7 @@ for x in range(8):
             
     combined_csv = pd.concat([pd.read_csv(c) for c in concatfiles])
     #export to csv        
-    combined_csv.to_csv("../results/diverse"+str(x+1)+".csv", index=False, encoding='utf-8-sig')        
+    combined_csv.to_csv("../diversity_data/diverse"+str(x+1)+".csv", index=False, encoding='utf-8-sig')        
     print()
 
 # ORDER of projects bb, bs, mb, ms, lb, ls, ub, us
@@ -128,6 +128,6 @@ for x in range(8):
             
     combined_csv = pd.concat([pd.read_csv(c) for c in nondiverse])
     #export to csv        
-    newFile = list(key_dict.keys())[list(key_dict.values()).index(x)] + '_non-diverse_combined'
-    combined_csv.to_csv("../results/nondiverse_"+newFile+".csv", index=False, encoding='utf-8-sig')        
+    newFile = list(csv_dict.keys())[list(csv_dict.values()).index(x)]
+    combined_csv.to_csv("../diversity_data/nondiverse_"+newFile+".csv", index=False, encoding='utf-8-sig')        
     print()
