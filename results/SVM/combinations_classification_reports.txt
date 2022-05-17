@@ -1,0 +1,1408 @@
+Classification report for SVC() trained on diverse1.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      2275
+         1.0       0.39      1.00      0.56      1447
+
+    accuracy                           0.39      3722
+   macro avg       0.19      0.50      0.28      3722
+weighted avg       0.15      0.39      0.22      3722
+
+Classification report for SVC() trained on diverse1.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.25      1.00      0.39       108
+
+    accuracy                           0.25       439
+   macro avg       0.12      0.50      0.20       439
+weighted avg       0.06      0.25      0.10       439
+
+Classification report for SVC() trained on diverse1.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       164
+         1.0       0.62      1.00      0.76       267
+
+    accuracy                           0.62       431
+   macro avg       0.31      0.50      0.38       431
+weighted avg       0.38      0.62      0.47       431
+
+Classification report for SVC() trained on diverse1.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        85
+         1.0       0.47      1.00      0.64        76
+
+    accuracy                           0.47       161
+   macro avg       0.24      0.50      0.32       161
+weighted avg       0.22      0.47      0.30       161
+
+Classification report for SVC() trained on diverse1.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.00      0.00      1901
+         1.0       0.58      1.00      0.74      2652
+
+    accuracy                           0.58      4553
+   macro avg       0.79      0.50      0.37      4553
+weighted avg       0.76      0.58      0.43      4553
+
+Classification report for SVC() trained on diverse1.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.76      1.00      0.86       176
+
+    accuracy                           0.76       233
+   macro avg       0.38      0.50      0.43       233
+weighted avg       0.57      0.76      0.65       233
+
+Classification report for SVC() trained on diverse1.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       397
+         1.0       0.55      1.00      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.28      0.50      0.36       885
+weighted avg       0.30      0.55      0.39       885
+
+Classification report for SVC() trained on diverse1.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.08      0.50      0.14       332
+weighted avg       0.03      0.17      0.05       332
+
+Classification report for SVC() trained on diverse2.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.66      0.04      0.08      2275
+         1.0       0.39      0.96      0.56      1447
+
+    accuracy                           0.40      3722
+   macro avg       0.52      0.50      0.32      3722
+weighted avg       0.55      0.40      0.27      3722
+
+Classification report for SVC() trained on diverse2.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.24      0.99      0.39       108
+
+    accuracy                           0.24       439
+   macro avg       0.12      0.50      0.20       439
+weighted avg       0.06      0.24      0.10       439
+
+Classification report for SVC() trained on diverse2.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       164
+         1.0       0.62      1.00      0.77       267
+
+    accuracy                           0.62       431
+   macro avg       0.31      0.50      0.38       431
+weighted avg       0.38      0.62      0.47       431
+
+Classification report for SVC() trained on diverse2.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        85
+         1.0       0.47      1.00      0.64        76
+
+    accuracy                           0.47       161
+   macro avg       0.24      0.50      0.32       161
+weighted avg       0.22      0.47      0.30       161
+
+Classification report for SVC() trained on diverse2.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.29      0.00      0.00      1901
+         1.0       0.58      1.00      0.73      2652
+
+    accuracy                           0.58      4553
+   macro avg       0.43      0.50      0.37      4553
+weighted avg       0.46      0.58      0.43      4553
+
+Classification report for SVC() trained on diverse2.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.75      0.99      0.86       176
+
+    accuracy                           0.75       233
+   macro avg       0.38      0.50      0.43       233
+weighted avg       0.57      0.75      0.65       233
+
+Classification report for SVC() trained on diverse2.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       397
+         1.0       0.55      1.00      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.28      0.50      0.35       885
+weighted avg       0.30      0.55      0.39       885
+
+Classification report for SVC() trained on diverse2.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.08      0.50      0.14       332
+weighted avg       0.03      0.17      0.05       332
+
+Classification report for SVC() trained on diverse3.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.61      0.99      0.76      2275
+         1.0       0.48      0.01      0.02      1447
+
+    accuracy                           0.61      3722
+   macro avg       0.55      0.50      0.39      3722
+weighted avg       0.56      0.61      0.47      3722
+
+Classification report for SVC() trained on diverse3.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.75      1.00      0.86       331
+         1.0       0.00      0.00      0.00       108
+
+    accuracy                           0.75       439
+   macro avg       0.38      0.50      0.43       439
+weighted avg       0.57      0.75      0.65       439
+
+Classification report for SVC() trained on diverse3.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.38      1.00      0.55       164
+         1.0       0.00      0.00      0.00       267
+
+    accuracy                           0.38       431
+   macro avg       0.19      0.50      0.28       431
+weighted avg       0.14      0.38      0.21       431
+
+Classification report for SVC() trained on diverse3.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.53      1.00      0.69        85
+         1.0       1.00      0.01      0.03        76
+
+    accuracy                           0.53       161
+   macro avg       0.77      0.51      0.36       161
+weighted avg       0.75      0.53      0.38       161
+
+Classification report for SVC() trained on diverse3.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.42      1.00      0.59      1901
+         1.0       0.83      0.00      0.00      2652
+
+    accuracy                           0.42      4553
+   macro avg       0.63      0.50      0.30      4553
+weighted avg       0.66      0.42      0.25      4553
+
+Classification report for SVC() trained on diverse3.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.24      1.00      0.39        57
+         1.0       0.00      0.00      0.00       176
+
+    accuracy                           0.24       233
+   macro avg       0.12      0.50      0.20       233
+weighted avg       0.06      0.24      0.10       233
+
+Classification report for SVC() trained on diverse3.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.45      1.00      0.62       397
+         1.0       0.00      0.00      0.00       488
+
+    accuracy                           0.45       885
+   macro avg       0.22      0.50      0.31       885
+weighted avg       0.20      0.45      0.28       885
+
+Classification report for SVC() trained on diverse3.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.83      1.00      0.91       276
+         1.0       0.00      0.00      0.00        56
+
+    accuracy                           0.83       332
+   macro avg       0.42      0.50      0.45       332
+weighted avg       0.69      0.83      0.75       332
+
+Classification report for SVC() trained on diverse4.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      2275
+         1.0       0.39      1.00      0.56      1447
+
+    accuracy                           0.39      3722
+   macro avg       0.19      0.50      0.28      3722
+weighted avg       0.15      0.39      0.22      3722
+
+Classification report for SVC() trained on diverse4.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.25      1.00      0.39       108
+
+    accuracy                           0.25       439
+   macro avg       0.12      0.50      0.20       439
+weighted avg       0.06      0.25      0.10       439
+
+Classification report for SVC() trained on diverse4.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       164
+         1.0       0.62      1.00      0.77       267
+
+    accuracy                           0.62       431
+   macro avg       0.31      0.50      0.38       431
+weighted avg       0.38      0.62      0.47       431
+
+Classification report for SVC() trained on diverse4.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        85
+         1.0       0.47      1.00      0.64        76
+
+    accuracy                           0.47       161
+   macro avg       0.24      0.50      0.32       161
+weighted avg       0.22      0.47      0.30       161
+
+Classification report for SVC() trained on diverse4.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      1901
+         1.0       0.58      1.00      0.74      2652
+
+    accuracy                           0.58      4553
+   macro avg       0.29      0.50      0.37      4553
+weighted avg       0.34      0.58      0.43      4553
+
+Classification report for SVC() trained on diverse4.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.76      1.00      0.86       176
+
+    accuracy                           0.76       233
+   macro avg       0.38      0.50      0.43       233
+weighted avg       0.57      0.76      0.65       233
+
+Classification report for SVC() trained on diverse4.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       397
+         1.0       0.55      1.00      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.28      0.50      0.36       885
+weighted avg       0.30      0.55      0.39       885
+
+Classification report for SVC() trained on diverse4.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.08      0.50      0.14       332
+weighted avg       0.03      0.17      0.05       332
+
+Classification report for SVC() trained on diverse5.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      2275
+         1.0       0.39      1.00      0.56      1447
+
+    accuracy                           0.39      3722
+   macro avg       0.19      0.50      0.28      3722
+weighted avg       0.15      0.39      0.22      3722
+
+Classification report for SVC() trained on diverse5.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.25      1.00      0.39       108
+
+    accuracy                           0.25       439
+   macro avg       0.12      0.50      0.20       439
+weighted avg       0.06      0.25      0.10       439
+
+Classification report for SVC() trained on diverse5.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       164
+         1.0       0.62      1.00      0.77       267
+
+    accuracy                           0.62       431
+   macro avg       0.31      0.50      0.38       431
+weighted avg       0.38      0.62      0.47       431
+
+Classification report for SVC() trained on diverse5.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        85
+         1.0       0.47      1.00      0.64        76
+
+    accuracy                           0.47       161
+   macro avg       0.24      0.50      0.32       161
+weighted avg       0.22      0.47      0.30       161
+
+Classification report for SVC() trained on diverse5.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      1901
+         1.0       0.58      1.00      0.74      2652
+
+    accuracy                           0.58      4553
+   macro avg       0.29      0.50      0.37      4553
+weighted avg       0.34      0.58      0.43      4553
+
+Classification report for SVC() trained on diverse5.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.76      1.00      0.86       176
+
+    accuracy                           0.76       233
+   macro avg       0.38      0.50      0.43       233
+weighted avg       0.57      0.76      0.65       233
+
+Classification report for SVC() trained on diverse5.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       397
+         1.0       0.55      1.00      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.28      0.50      0.36       885
+weighted avg       0.30      0.55      0.39       885
+
+Classification report for SVC() trained on diverse5.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.08      0.50      0.14       332
+weighted avg       0.03      0.17      0.05       332
+
+Classification report for SVC() trained on diverse6.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.60      0.82      0.69      2275
+         1.0       0.32      0.13      0.18      1447
+
+    accuracy                           0.55      3722
+   macro avg       0.46      0.48      0.44      3722
+weighted avg       0.49      0.55      0.49      3722
+
+Classification report for SVC() trained on diverse6.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.77      0.99      0.86       331
+         1.0       0.73      0.07      0.13       108
+
+    accuracy                           0.77       439
+   macro avg       0.75      0.53      0.50       439
+weighted avg       0.76      0.77      0.68       439
+
+Classification report for SVC() trained on diverse6.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.46      0.78      0.58       164
+         1.0       0.76      0.44      0.56       267
+
+    accuracy                           0.57       431
+   macro avg       0.61      0.61      0.57       431
+weighted avg       0.65      0.57      0.57       431
+
+Classification report for SVC() trained on diverse6.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.52      0.62      0.57        85
+         1.0       0.46      0.36      0.40        76
+
+    accuracy                           0.50       161
+   macro avg       0.49      0.49      0.48       161
+weighted avg       0.49      0.50      0.49       161
+
+Classification report for SVC() trained on diverse6.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.43      0.91      0.58      1901
+         1.0       0.67      0.13      0.22      2652
+
+    accuracy                           0.46      4553
+   macro avg       0.55      0.52      0.40      4553
+weighted avg       0.57      0.46      0.37      4553
+
+Classification report for SVC() trained on diverse6.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.25      0.95      0.40        57
+         1.0       0.82      0.08      0.15       176
+
+    accuracy                           0.29       233
+   macro avg       0.54      0.51      0.27       233
+weighted avg       0.68      0.29      0.21       233
+
+Classification report for SVC() trained on diverse6.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.47      0.89      0.61       397
+         1.0       0.66      0.17      0.27       488
+
+    accuracy                           0.49       885
+   macro avg       0.56      0.53      0.44       885
+weighted avg       0.57      0.49      0.42       885
+
+Classification report for SVC() trained on diverse6.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.83      0.82      0.83       276
+         1.0       0.18      0.20      0.19        56
+
+    accuracy                           0.72       332
+   macro avg       0.51      0.51      0.51       332
+weighted avg       0.72      0.72      0.72       332
+
+Classification report for SVC() trained on diverse7.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.58      0.16      0.26      2275
+         1.0       0.38      0.81      0.52      1447
+
+    accuracy                           0.42      3722
+   macro avg       0.48      0.49      0.39      3722
+weighted avg       0.50      0.42      0.36      3722
+
+Classification report for SVC() trained on diverse7.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.24      0.97      0.39       108
+
+    accuracy                           0.24       439
+   macro avg       0.12      0.49      0.19       439
+weighted avg       0.06      0.24      0.09       439
+
+Classification report for SVC() trained on diverse7.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       164
+         1.0       0.62      1.00      0.76       267
+
+    accuracy                           0.62       431
+   macro avg       0.31      0.50      0.38       431
+weighted avg       0.38      0.62      0.47       431
+
+Classification report for SVC() trained on diverse7.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.50      0.02      0.04        85
+         1.0       0.47      0.97      0.64        76
+
+    accuracy                           0.47       161
+   macro avg       0.49      0.50      0.34       161
+weighted avg       0.49      0.47      0.32       161
+
+Classification report for SVC() trained on diverse7.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.32      0.01      0.03      1901
+         1.0       0.58      0.98      0.73      2652
+
+    accuracy                           0.58      4553
+   macro avg       0.45      0.50      0.38      4553
+weighted avg       0.47      0.58      0.44      4553
+
+Classification report for SVC() trained on diverse7.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.75      0.98      0.85       176
+
+    accuracy                           0.74       233
+   macro avg       0.38      0.49      0.43       233
+weighted avg       0.57      0.74      0.64       233
+
+Classification report for SVC() trained on diverse7.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.50      0.01      0.01       397
+         1.0       0.55      0.99      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.53      0.50      0.36       885
+weighted avg       0.53      0.55      0.40       885
+
+Classification report for SVC() trained on diverse7.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.00      0.01       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.58      0.50      0.15       332
+weighted avg       0.86      0.17      0.05       332
+
+Classification report for SVC() trained on diverse8.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      2275
+         1.0       0.39      1.00      0.56      1447
+
+    accuracy                           0.39      3722
+   macro avg       0.19      0.50      0.28      3722
+weighted avg       0.15      0.39      0.22      3722
+
+Classification report for SVC() trained on diverse8.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.25      1.00      0.39       108
+
+    accuracy                           0.25       439
+   macro avg       0.12      0.50      0.20       439
+weighted avg       0.06      0.25      0.10       439
+
+Classification report for SVC() trained on diverse8.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       164
+         1.0       0.62      1.00      0.77       267
+
+    accuracy                           0.62       431
+   macro avg       0.31      0.50      0.38       431
+weighted avg       0.38      0.62      0.47       431
+
+Classification report for SVC() trained on diverse8.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        85
+         1.0       0.47      1.00      0.64        76
+
+    accuracy                           0.47       161
+   macro avg       0.24      0.50      0.32       161
+weighted avg       0.22      0.47      0.30       161
+
+Classification report for SVC() trained on diverse8.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      1901
+         1.0       0.58      1.00      0.74      2652
+
+    accuracy                           0.58      4553
+   macro avg       0.29      0.50      0.37      4553
+weighted avg       0.34      0.58      0.43      4553
+
+Classification report for SVC() trained on diverse8.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.76      1.00      0.86       176
+
+    accuracy                           0.76       233
+   macro avg       0.38      0.50      0.43       233
+weighted avg       0.57      0.76      0.65       233
+
+Classification report for SVC() trained on diverse8.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       397
+         1.0       0.55      1.00      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.28      0.50      0.36       885
+weighted avg       0.30      0.55      0.39       885
+
+Classification report for SVC() trained on diverse8.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.08      0.50      0.14       332
+weighted avg       0.03      0.17      0.05       332
+
+Classification report for SVC() trained on nondiverse_BB.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.62      0.27      0.38      2275
+         1.0       0.39      0.74      0.51      1447
+
+    accuracy                           0.45      3722
+   macro avg       0.51      0.51      0.45      3722
+weighted avg       0.53      0.45      0.43      3722
+
+Classification report for SVC() trained on nondiverse_BB.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.24      0.97      0.39       108
+
+    accuracy                           0.24       439
+   macro avg       0.12      0.49      0.19       439
+weighted avg       0.06      0.24      0.09       439
+
+Classification report for SVC() trained on nondiverse_BB.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.06      0.01      0.01       164
+         1.0       0.61      0.94      0.74       267
+
+    accuracy                           0.58       431
+   macro avg       0.33      0.47      0.37       431
+weighted avg       0.40      0.58      0.46       431
+
+Classification report for SVC() trained on nondiverse_BB.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.56      0.16      0.25        85
+         1.0       0.48      0.86      0.61        76
+
+    accuracy                           0.49       161
+   macro avg       0.52      0.51      0.43       161
+weighted avg       0.52      0.49      0.42       161
+
+Classification report for SVC() trained on nondiverse_BB.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.29      0.02      0.04      1901
+         1.0       0.58      0.96      0.72      2652
+
+    accuracy                           0.57      4553
+   macro avg       0.43      0.49      0.38      4553
+weighted avg       0.46      0.57      0.44      4553
+
+Classification report for SVC() trained on nondiverse_BB.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.75      0.95      0.84       176
+
+    accuracy                           0.72       233
+   macro avg       0.37      0.47      0.42       233
+weighted avg       0.56      0.72      0.63       233
+
+Classification report for SVC() trained on nondiverse_BB.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.31      0.02      0.04       397
+         1.0       0.55      0.96      0.70       488
+
+    accuracy                           0.54       885
+   macro avg       0.43      0.49      0.37       885
+weighted avg       0.44      0.54      0.40       885
+
+Classification report for SVC() trained on nondiverse_BB.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.01      0.03       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.18       332
+   macro avg       0.59      0.51      0.16       332
+weighted avg       0.86      0.18      0.07       332
+
+Classification report for SVC() trained on nondiverse_BL.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.63      0.24      0.35      2275
+         1.0       0.39      0.78      0.52      1447
+
+    accuracy                           0.45      3722
+   macro avg       0.51      0.51      0.44      3722
+weighted avg       0.54      0.45      0.42      3722
+
+Classification report for SVC() trained on nondiverse_BL.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.44      0.01      0.02       331
+         1.0       0.24      0.95      0.38       108
+
+    accuracy                           0.24       439
+   macro avg       0.34      0.48      0.20       439
+weighted avg       0.39      0.24      0.11       439
+
+Classification report for SVC() trained on nondiverse_BL.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.25      0.02      0.03       164
+         1.0       0.62      0.97      0.75       267
+
+    accuracy                           0.61       431
+   macro avg       0.43      0.49      0.39       431
+weighted avg       0.48      0.61      0.48       431
+
+Classification report for SVC() trained on nondiverse_BL.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.75      0.14      0.24        85
+         1.0       0.50      0.95      0.65        76
+
+    accuracy                           0.52       161
+   macro avg       0.62      0.54      0.44       161
+weighted avg       0.63      0.52      0.43       161
+
+Classification report for SVC() trained on nondiverse_BL.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.41      0.06      0.10      1901
+         1.0       0.58      0.94      0.72      2652
+
+    accuracy                           0.57      4553
+   macro avg       0.49      0.50      0.41      4553
+weighted avg       0.51      0.57      0.46      4553
+
+Classification report for SVC() trained on nondiverse_BL.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.08      0.02      0.03        57
+         1.0       0.75      0.93      0.83       176
+
+    accuracy                           0.71       233
+   macro avg       0.41      0.47      0.43       233
+weighted avg       0.58      0.71      0.63       233
+
+Classification report for SVC() trained on nondiverse_BL.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.55      0.04      0.08       397
+         1.0       0.56      0.97      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.55      0.51      0.39       885
+weighted avg       0.55      0.55      0.43       885
+
+Classification report for SVC() trained on nondiverse_BL.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.01      0.01       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.58      0.50      0.15       332
+weighted avg       0.86      0.17      0.06       332
+
+Classification report for SVC() trained on nondiverse_BM.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      2275
+         1.0       0.39      1.00      0.56      1447
+
+    accuracy                           0.39      3722
+   macro avg       0.19      0.50      0.28      3722
+weighted avg       0.15      0.39      0.22      3722
+
+Classification report for SVC() trained on nondiverse_BM.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.25      1.00      0.39       108
+
+    accuracy                           0.25       439
+   macro avg       0.12      0.50      0.20       439
+weighted avg       0.06      0.25      0.10       439
+
+Classification report for SVC() trained on nondiverse_BM.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.01      0.01       164
+         1.0       0.62      1.00      0.77       267
+
+    accuracy                           0.62       431
+   macro avg       0.81      0.50      0.39       431
+weighted avg       0.77      0.62      0.48       431
+
+Classification report for SVC() trained on nondiverse_BM.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        85
+         1.0       0.47      1.00      0.64        76
+
+    accuracy                           0.47       161
+   macro avg       0.24      0.50      0.32       161
+weighted avg       0.22      0.47      0.30       161
+
+Classification report for SVC() trained on nondiverse_BM.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      1901
+         1.0       0.58      1.00      0.74      2652
+
+    accuracy                           0.58      4553
+   macro avg       0.29      0.50      0.37      4553
+weighted avg       0.34      0.58      0.43      4553
+
+Classification report for SVC() trained on nondiverse_BM.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.76      1.00      0.86       176
+
+    accuracy                           0.76       233
+   macro avg       0.38      0.50      0.43       233
+weighted avg       0.57      0.76      0.65       233
+
+Classification report for SVC() trained on nondiverse_BM.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       397
+         1.0       0.55      1.00      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.28      0.50      0.36       885
+weighted avg       0.30      0.55      0.39       885
+
+Classification report for SVC() trained on nondiverse_BM.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.08      0.50      0.14       332
+weighted avg       0.03      0.17      0.05       332
+
+Classification report for SVC() trained on nondiverse_BU.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      2275
+         1.0       0.39      1.00      0.56      1447
+
+    accuracy                           0.39      3722
+   macro avg       0.19      0.50      0.28      3722
+weighted avg       0.15      0.39      0.22      3722
+
+Classification report for SVC() trained on nondiverse_BU.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.25      1.00      0.39       108
+
+    accuracy                           0.25       439
+   macro avg       0.12      0.50      0.20       439
+weighted avg       0.06      0.25      0.10       439
+
+Classification report for SVC() trained on nondiverse_BU.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       164
+         1.0       0.62      1.00      0.77       267
+
+    accuracy                           0.62       431
+   macro avg       0.31      0.50      0.38       431
+weighted avg       0.38      0.62      0.47       431
+
+Classification report for SVC() trained on nondiverse_BU.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        85
+         1.0       0.47      1.00      0.64        76
+
+    accuracy                           0.47       161
+   macro avg       0.24      0.50      0.32       161
+weighted avg       0.22      0.47      0.30       161
+
+Classification report for SVC() trained on nondiverse_BU.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00      1901
+         1.0       0.58      1.00      0.74      2652
+
+    accuracy                           0.58      4553
+   macro avg       0.29      0.50      0.37      4553
+weighted avg       0.34      0.58      0.43      4553
+
+Classification report for SVC() trained on nondiverse_BU.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.76      1.00      0.86       176
+
+    accuracy                           0.76       233
+   macro avg       0.38      0.50      0.43       233
+weighted avg       0.57      0.76      0.65       233
+
+Classification report for SVC() trained on nondiverse_BU.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       397
+         1.0       0.55      1.00      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.28      0.50      0.36       885
+weighted avg       0.30      0.55      0.39       885
+
+Classification report for SVC() trained on nondiverse_BU.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.08      0.50      0.14       332
+weighted avg       0.03      0.17      0.05       332
+
+Classification report for SVC() trained on nondiverse_SB.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.59      0.60      0.60      2275
+         1.0       0.36      0.36      0.36      1447
+
+    accuracy                           0.51      3722
+   macro avg       0.48      0.48      0.48      3722
+weighted avg       0.50      0.51      0.50      3722
+
+Classification report for SVC() trained on nondiverse_SB.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.76      1.00      0.87       331
+         1.0       1.00      0.05      0.09       108
+
+    accuracy                           0.77       439
+   macro avg       0.88      0.52      0.48       439
+weighted avg       0.82      0.77      0.67       439
+
+Classification report for SVC() trained on nondiverse_SB.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.44      0.91      0.59       164
+         1.0       0.84      0.28      0.42       267
+
+    accuracy                           0.52       431
+   macro avg       0.64      0.60      0.51       431
+weighted avg       0.68      0.52      0.49       431
+
+Classification report for SVC() trained on nondiverse_SB.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.53      0.66      0.59        85
+         1.0       0.47      0.34      0.40        76
+
+    accuracy                           0.51       161
+   macro avg       0.50      0.50      0.49       161
+weighted avg       0.50      0.51      0.50       161
+
+Classification report for SVC() trained on nondiverse_SB.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.43      0.93      0.59      1901
+         1.0       0.70      0.11      0.19      2652
+
+    accuracy                           0.46      4553
+   macro avg       0.57      0.52      0.39      4553
+weighted avg       0.59      0.46      0.36      4553
+
+Classification report for SVC() trained on nondiverse_SB.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.25      0.96      0.40        57
+         1.0       0.88      0.08      0.15       176
+
+    accuracy                           0.30       233
+   macro avg       0.56      0.52      0.27       233
+weighted avg       0.72      0.30      0.21       233
+
+Classification report for SVC() trained on nondiverse_SB.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.46      0.92      0.61       397
+         1.0       0.65      0.11      0.20       488
+
+    accuracy                           0.48       885
+   macro avg       0.56      0.52      0.40       885
+weighted avg       0.57      0.48      0.38       885
+
+Classification report for SVC() trained on nondiverse_SB.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.84      0.90      0.87       276
+         1.0       0.23      0.14      0.18        56
+
+    accuracy                           0.77       332
+   macro avg       0.53      0.52      0.52       332
+weighted avg       0.74      0.77      0.75       332
+
+Classification report for SVC() trained on nondiverse_SL.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.70      0.00      0.01      2275
+         1.0       0.39      1.00      0.56      1447
+
+    accuracy                           0.39      3722
+   macro avg       0.54      0.50      0.28      3722
+weighted avg       0.58      0.39      0.22      3722
+
+Classification report for SVC() trained on nondiverse_SL.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.25      1.00      0.39       108
+
+    accuracy                           0.25       439
+   macro avg       0.12      0.50      0.20       439
+weighted avg       0.06      0.25      0.10       439
+
+Classification report for SVC() trained on nondiverse_SL.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       164
+         1.0       0.62      1.00      0.77       267
+
+    accuracy                           0.62       431
+   macro avg       0.31      0.50      0.38       431
+weighted avg       0.38      0.62      0.47       431
+
+Classification report for SVC() trained on nondiverse_SL.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        85
+         1.0       0.47      1.00      0.64        76
+
+    accuracy                           0.47       161
+   macro avg       0.24      0.50      0.32       161
+weighted avg       0.22      0.47      0.30       161
+
+Classification report for SVC() trained on nondiverse_SL.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.33      0.00      0.00      1901
+         1.0       0.58      1.00      0.74      2652
+
+    accuracy                           0.58      4553
+   macro avg       0.46      0.50      0.37      4553
+weighted avg       0.48      0.58      0.43      4553
+
+Classification report for SVC() trained on nondiverse_SL.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.76      1.00      0.86       176
+
+    accuracy                           0.76       233
+   macro avg       0.38      0.50      0.43       233
+weighted avg       0.57      0.76      0.65       233
+
+Classification report for SVC() trained on nondiverse_SL.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       397
+         1.0       0.55      1.00      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.28      0.50      0.36       885
+weighted avg       0.30      0.55      0.39       885
+
+Classification report for SVC() trained on nondiverse_SL.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.08      0.50      0.14       332
+weighted avg       0.03      0.17      0.05       332
+
+Classification report for SVC() trained on nondiverse_SM.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.67      0.00      0.00      2275
+         1.0       0.39      1.00      0.56      1447
+
+    accuracy                           0.39      3722
+   macro avg       0.53      0.50      0.28      3722
+weighted avg       0.56      0.39      0.22      3722
+
+Classification report for SVC() trained on nondiverse_SM.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       331
+         1.0       0.25      1.00      0.39       108
+
+    accuracy                           0.25       439
+   macro avg       0.12      0.50      0.20       439
+weighted avg       0.06      0.25      0.10       439
+
+Classification report for SVC() trained on nondiverse_SM.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       164
+         1.0       0.61      0.96      0.75       267
+
+    accuracy                           0.60       431
+   macro avg       0.31      0.48      0.37       431
+weighted avg       0.38      0.60      0.46       431
+
+Classification report for SVC() trained on nondiverse_SM.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.62      0.06      0.11        85
+         1.0       0.48      0.96      0.64        76
+
+    accuracy                           0.48       161
+   macro avg       0.55      0.51      0.37       161
+weighted avg       0.56      0.48      0.36       161
+
+Classification report for SVC() trained on nondiverse_SM.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.48      0.01      0.03      1901
+         1.0       0.58      0.99      0.73      2652
+
+    accuracy                           0.58      4553
+   macro avg       0.53      0.50      0.38      4553
+weighted avg       0.54      0.58      0.44      4553
+
+Classification report for SVC() trained on nondiverse_SM.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        57
+         1.0       0.76      1.00      0.86       176
+
+    accuracy                           0.76       233
+   macro avg       0.38      0.50      0.43       233
+weighted avg       0.57      0.76      0.65       233
+
+Classification report for SVC() trained on nondiverse_SM.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.67      0.01      0.01       397
+         1.0       0.55      1.00      0.71       488
+
+    accuracy                           0.55       885
+   macro avg       0.61      0.50      0.36       885
+weighted avg       0.60      0.55      0.40       885
+
+Classification report for SVC() trained on nondiverse_SM.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       276
+         1.0       0.17      1.00      0.29        56
+
+    accuracy                           0.17       332
+   macro avg       0.08      0.50      0.14       332
+weighted avg       0.03      0.17      0.05       332
+
+Classification report for SVC() trained on nondiverse_SU.csv and tested on facebooksdk_BB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.59      0.81      0.68      2275
+         1.0       0.30      0.13      0.18      1447
+
+    accuracy                           0.54      3722
+   macro avg       0.45      0.47      0.43      3722
+weighted avg       0.48      0.54      0.49      3722
+
+Classification report for SVC() trained on nondiverse_SU.csv and tested on tessera_BS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.76      1.00      0.86       331
+         1.0       0.67      0.02      0.04       108
+
+    accuracy                           0.76       439
+   macro avg       0.71      0.51      0.45       439
+weighted avg       0.73      0.76      0.66       439
+
+Classification report for SVC() trained on nondiverse_SU.csv and tested on zxing_MB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.44      0.92      0.59       164
+         1.0       0.85      0.27      0.41       267
+
+    accuracy                           0.52       431
+   macro avg       0.64      0.60      0.50       431
+weighted avg       0.69      0.52      0.48       431
+
+Classification report for SVC() trained on nondiverse_SU.csv and tested on javacv_MS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.52      0.73      0.60        85
+         1.0       0.44      0.24      0.31        76
+
+    accuracy                           0.50       161
+   macro avg       0.48      0.48      0.46       161
+weighted avg       0.48      0.50      0.46       161
+
+Classification report for SVC() trained on nondiverse_SU.csv and tested on flowable_LB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.43      0.96      0.59      1901
+         1.0       0.75      0.09      0.16      2652
+
+    accuracy                           0.45      4553
+   macro avg       0.59      0.52      0.37      4553
+weighted avg       0.62      0.45      0.34      4553
+
+Classification report for SVC() trained on nondiverse_SU.csv and tested on googleauth_LS.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.25      0.96      0.40        57
+         1.0       0.88      0.09      0.16       176
+
+    accuracy                           0.30       233
+   macro avg       0.57      0.53      0.28       233
+weighted avg       0.73      0.30      0.22       233
+
+Classification report for SVC() trained on nondiverse_SU.csv and tested on k9_UB.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.45      0.90      0.60       397
+         1.0       0.60      0.12      0.20       488
+
+    accuracy                           0.47       885
+   macro avg       0.53      0.51      0.40       885
+weighted avg       0.53      0.47      0.38       885
+
+Classification report for SVC() trained on nondiverse_SU.csv and tested on pipeline_US.csv:
+
+              precision    recall  f1-score   support
+
+         0.0       0.84      0.92      0.88       276
+         1.0       0.26      0.14      0.18        56
+
+    accuracy                           0.79       332
+   macro avg       0.55      0.53      0.53       332
+weighted avg       0.74      0.79      0.76       332
+
