@@ -1,0 +1,9 @@
+Group1,Group2,P-vlaue
+Big,Small,0.0474892730703384
+Business,Library,0.026750032782123557
+Business,Utility,0.03491805236802343
+Business,Multimedia,0.9476701868119938
+Library,Utility,0.8828824311088987
+Library,Multimedia,0.02360752592720595
+Utility,Multimedia,0.030637400728111643
+Diverse,Non-diverse,0.2879014294660861
