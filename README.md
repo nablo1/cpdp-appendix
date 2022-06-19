@@ -4,15 +4,14 @@ This is the online appendix for manuscript "What makes a good project for Cross-
 * Jakob Roseke | University of Gothenburg 
 
 # Table of contents
-* [1. Overview](https://github.com/nablo1/cpdp-appendix#overview)
-* [2. Repository content](https://github.com/nablo1/cpdp-appendix#repository-content)
-* [3. Introduction and requirements](https://github.com/nablo1/cpdp-appendix#introduction-and-requirements)
-* [4. Data collection](https://github.com/nablo1/cpdp-appendix#data-collection)
-  * [4.1 Labeling files](https://github.com/nablo1/cpdp-appendix#labeling-files)
-  * [4.2 Calculation of metrics](https://github.com/nablo1/cpdp-appendix#calculation-of-metrics)
-* [5. Data analysis](https://github.com/nablo1/cpdp-appendix#data-analysis)
-  * [5.1 Classifiers and predictions](https://github.com/nablo1/cpdp-appendix#classifiers-and-predictions)
-  * [5.2 Statistical analysis](https://github.com/nablo1/cpdp-appendix#statistical-analysis)
+* [Overview](https://github.com/nablo1/cpdp-appendix#overview)
+* [Repository content](https://github.com/nablo1/cpdp-appendix#repository-content)
+* [Introduction and requirements](https://github.com/nablo1/cpdp-appendix#introduction-and-requirements)
+* [Execution intsructions](https://github.com/nablo1/execution-instructions)
+  * [Labeling files](https://github.com/nablo1/cpdp-appendix#labeling-files)
+  * [Calculation of metrics](https://github.com/nablo1/cpdp-appendix#calculation-of-metrics)
+  * [Classifiers and predictions](https://github.com/nablo1/cpdp-appendix#classifiers-and-predictions)
+  * [Statistical analysis](https://github.com/nablo1/cpdp-appendix#statistical-analysis)
 
 # Overview
 The manuscript extends prior research on software defect prediction. In particular, cross-project defect prediction. We conducted an experiment where we investigated the impact of the size and domain of a project, as well as the diversity of a selection of projects on the prediction results. We constructed a dataset based on 40 open-source GitHub Java projects, ran various predictions using 6 different ML classifiers, and performed statistical significance tests on the produced results to achieve our objectives. 
@@ -35,7 +34,7 @@ The scripts in this repository can be used to reproduce the steps of the experim
 
 Please make sure that all required Python libraries are installed before running the scripts.
 
-# Data Collection
+# Execution instructions
 ## Labeling Files
 The first step in the data collection is to label Java files in a project as *defect-prone* or *defect-free*. The labeling procedure is carried out using `files_labeling.py` script.
 Before executing the script, the target Java project must be freshly cloned in the same directory as the script, and upon that, lines 8 to 11 in the script, marked with `ENTER HERE`, must be filled with the proper configuration settings:
@@ -57,9 +56,10 @@ Before executing the script, the target project must be successfully built using
 
 The outcome of the executed script is a table that contains all Java classes, their corresponding Java files, and their calculated metrics. Using a MySQL query you can then merge each `all_files` table that represents a single project with the table that contains the metrics by matching the `java_file` attribute. 
 
-# Data Analysis
 ## Classifiers and Predictions
 The predictions are carried out using `ML_pipeline.ipynb`. The pipeline must be run once for each classifier you wish to use. First, choose a classifier from the list in the pipeline (or add a new one of your choice) and assign to the `clf` variable. Second, specify the directory that you wish to save the results in and assign to the `folder` variable. 
 
+## Statistical Analysis
+The statistical analysis is carried out using `statistical_testing.ipynb`. The script groups the accuracy results of predictions from a target directory into different groups depending on the predictors' size, domain, or diversity-state. It then performs Mann-Whitney U statistical significance tests between different pairs of groups. All you need to do before execution of all cells is specify the directory which contains the results you wish to examine and assign it to the `folder` variable.
 
 
